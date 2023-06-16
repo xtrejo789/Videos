@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1686941112 source:c:\users\ximen\onedrive\documentos\serie\episodio.cpp
+	"Episodio.h"
+
+1686256582 c:\users\ximen\onedrive\documentos\serie\episodio.h
+	<stdio.h>
+	<string>
+
+1686943135 source:c:\users\ximen\onedrive\documentos\serie\serie.cpp
+	"Serie.h"
+
+1686942721 c:\users\ximen\onedrive\documentos\serie\serie.h
+	<stdio.h>
+	<iostream>
+	<string>
+	<math.h>
+	"Episodio.h"
+
+1685815638 source:c:\users\ximen\onedrive\documentos\serie\series.cpp
+	"Series.h"
+	<iostream>
+	<string>
+	<stdio.h>
+	<sstream>
+	<fstream>
+	<iomanip>
+	<math.h>
+
+1685810504 c:\users\ximen\onedrive\documentos\serie\series.h
+	<stdio.h>
+	<iostream>
+	<string>
+	<math.h>
+	"Serie.h"
+	"Pelicula.h"
+
+1686940875 source:c:\users\ximen\onedrive\documentos\serie\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Videos.h"
+	"Episodio.h"
+	"Series.h"
+
+1685813518 source:c:\users\ximen\onedrive\documentos\serie\pelicula.cpp
+	"Pelicula.h"
+
+1685810937 c:\users\ximen\onedrive\documentos\serie\pelicula.h
+	<stdio.h>
+	<iostream>
+	<string>
+	<math.h>
+
+1686942827 source:c:\users\ximen\onedrive\documentos\serie\videos.cpp
+	"Videos.h"
+	<iostream>
+	<string>
+	<stdio.h>
+	<sstream>
+	<fstream>
+	<iomanip>
+	<math.h>
+
+1686940590 c:\users\ximen\onedrive\documentos\serie\videos.h
+	<stdio.h>
+	<iostream>
+	<string>
+	<math.h>
+	"Serie.h"
+	"Pelicula.h"
+
